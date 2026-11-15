@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>스페인 가족여행 11/20–11/29</name>
+<Style id="p_bcn"><IconStyle><color>ff0c41c2</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="l_bcn"><LineStyle><color>ff0c41c2</color><width>4</width></LineStyle></Style>
+<Style id="p_vlc"><IconStyle><color>ff76760f</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="l_vlc"><LineStyle><color>ff76760f</color><width>4</width></LineStyle></Style>
+<Style id="p_mad"><IconStyle><color>ff922d7c</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="l_mad"><LineStyle><color>ff922d7c</color><width>4</width></LineStyle></Style>
+<Style id="p_tol"><IconStyle><color>ff0762a1</color><scale>1.1</scale><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon></IconStyle></Style>
+<Style id="l_tol"><LineStyle><color>ff0762a1</color><width>4</width></LineStyle></Style>
+<Folder><name>11/21(토) 도착 · 코스모카익사</name><description><![CDATA[시차로 오후에 피로가 몰리는 날이라 일정은 가볍게. 체크인은 15:00이라 아침엔 짐만 맡겨요.]]></description>
+<Placemark><name>1. BCN 엘프라트 공항 도착</name><description><![CDATA[🕒 08:40<br>입국심사·수하물 약 1시간 예상]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.0833,41.2974,0</coordinates></Point></Placemark>
+<Placemark><name>2. 숙소 1 · Sercotel Caspe (짐 보관)</name><description><![CDATA[🕒 10:10<br>Carrer de Casp 103 · 체크인 15:00<br>[예약완료]]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1795,41.3959,0</coordinates></Point></Placemark>
+<Placemark><name>3. 휴식 / 개선문(Arc de Triomf) 산책</name><description><![CDATA[🕒 12:00 ~ 13:15<br>숙소에서 도보 5분. 피곤하면 로비에서 쉬기<br>[새로 제안]]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1806,41.3911,0</coordinates></Point></Placemark>
+<Placemark><name>4. 코스모카익사 과학박물관</name><description><![CDATA[🕒 14:00 ~ 17:00<br>10:00–20:00 · €16 · 3시간<br>[예약 필요]]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1316,41.4133,0</coordinates></Point></Placemark>
+<Placemark><name>선택. 몬주익 마법의 분수 (토요일 운영)</name><description><![CDATA[🕒 선택<br>월요일엔 운영하지 않아요(가을·겨울엔 목·금·토만). 꼭 보고 싶으면 오늘 밤이 유일한 기회. 회차는 20~22시 사이라 출처마다 달라서 barcelona.cat/fontmagica에서 확인 필요.<br>[변경·주의] [무료]]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1517,41.3712,0</coordinates></Point></Placemark>
+<Placemark><name>11/21 동선</name><styleUrl>#l_bcn</styleUrl><LineString><tessellate>1</tessellate><coordinates>2.0833,41.2974,0 2.1795,41.3959,0 2.1806,41.3911,0 2.1316,41.4133,0</coordinates></LineString></Placemark>
+</Folder>
+<Folder><name>11/22(일) 구엘공원 · 카사 바트요 · 미로 미술관</name><description><![CDATA[몬주익 성 자리에 미로 미술관을 넣었어요(일요일 10:00–19:00 운영). 미로를 본 뒤 시내로 내려와서, 람블라 거리와 고딕지구는 저녁 조명 속에서 걸어요. 몬주익 성은 11/23(월) 오후 일몰 시간으로 옮겼어요.]]></description>
+<Placemark><name>1. 숙소 출발 · 아침</name><description><![CDATA[🕒 08:00 ~ 08:50]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1795,41.3959,0</coordinates></Point></Placemark>
+<Placemark><name>2. 구엘공원</name><description><![CDATA[🕒 09:30 ~ 11:30<br>9:30 입장 · 2시간 · 시간 지정 입장권이 필요해요<br>[예약 필요]]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1527,41.4136,0</coordinates></Point></Placemark>
+<Placemark><name>3. 카사 바트요</name><description><![CDATA[🕒 13:15 ~ 14:45<br>1.5시간 · 시간 지정 예약 권장<br>[예약 필요]]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1649,41.3916,0</coordinates></Point></Placemark>
+<Placemark><name>4. Syra Coffee (간식)</name><description><![CDATA[🕒 14:45 ~ 15:15<br>그라시아 거리 일대 매장 (위치 대략)]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.164,41.3935,0</coordinates></Point></Placemark>
+<Placemark><name>5. 호안 미로 미술관 (Fundació Joan Miró)</name><description><![CDATA[🕒 15:45 ~ 17:30<br>11~3월 화~일 10:00–19:00 (월요일 휴관) · 일반 €18 · 권장 1.5~2시간 → 1시간 45분 · 옥상 테라스에서 시내 전망<br>[예약 필요] [변경·주의]]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1599,41.3685,0</coordinates></Point></Placemark>
+<Placemark><name>6. 카탈루냐 광장</name><description><![CDATA[🕒 17:50 ~ 18:00]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1701,41.387,0</coordinates></Point></Placemark>
+<Placemark><name>7. La Rambla (선택)</name><description><![CDATA[🕒 18:00 ~ 18:30<br>소매치기가 많기로 유명 — 가방은 앞으로. 피곤하면 생략]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1734,41.3807,0</coordinates></Point></Placemark>
+<Placemark><name>8. 고딕지구 (대성당 주변)</name><description><![CDATA[🕒 18:30 ~ 19:20]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1762,41.384,0</coordinates></Point></Placemark>
+<Placemark><name>11/22 동선</name><styleUrl>#l_bcn</styleUrl><LineString><tessellate>1</tessellate><coordinates>2.1795,41.3959,0 2.1527,41.4136,0 2.1649,41.3916,0 2.164,41.3935,0 2.1599,41.3685,0 2.1701,41.387,0 2.1734,41.3807,0 2.1762,41.384,0</coordinates></LineString></Placemark>
+</Folder>
+<Folder><name>11/23(월) 사그라다 파밀리아 · 카사 밀라 · 몬주익 성</name><description><![CDATA[원래 미로 미술관 자리(카사 밀라·젤라또 다음)에 몬주익 성을 넣었어요. 겨울엔 18:00에 닫고 매표는 17:30까지라 16시 전후에 도착하도록 잡았어요. 일몰(약 17:25)을 성에서 보고, 저녁에 그라시아 거리로 돌아와 쇼핑과 저녁을 해요.]]></description>
+<Placemark><name>1. 사그라다 파밀리아</name><description><![CDATA[🕒 10:00 ~ 12:00<br>10:00 예약 · €52 · 2시간. 입장 10~15분 전 도착<br>[예약완료]]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1744,41.4036,0</coordinates></Point></Placemark>
+<Placemark><name>2. 점심 · Sagradas Tapas</name><description><![CDATA[🕒 12:00 ~ 13:00<br>11:00 오픈 (성당 근처, 위치 대략)]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1735,41.404,0</coordinates></Point></Placemark>
+<Placemark><name>3. 카사 밀라 (라 페드레라)</name><description><![CDATA[🕒 13:30 ~ 15:00<br>1.5시간 · 13:30 입장 예약<br>[예약 필요]]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1619,41.3953,0</coordinates></Point></Placemark>
+<Placemark><name>4. 몬주익 성</name><description><![CDATA[🕒 16:00 ~ 17:40<br>매일 운영 · 겨울 10:00–18:00, 매표 17:30 마감 · 일반 €12, 16세 미만 무료 · 공식 웹사이트 온라인 판매만 · 일몰 약 17:25 (도시·항구 전망)<br>[예약 필요] [변경·주의]]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1662,41.3634,0</coordinates></Point></Placemark>
+<Placemark><name>5. 쇼핑 · La Chinata · LEGO Store</name><description><![CDATA[🕒 18:05 ~ 19:15<br>그라시아 거리 일대 · 해 진 뒤 거리 조명이 예뻐요]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.167,41.3905,0</coordinates></Point></Placemark>
+<Placemark><name>11/23 동선</name><styleUrl>#l_bcn</styleUrl><LineString><tessellate>1</tessellate><coordinates>2.1744,41.4036,0 2.1735,41.404,0 2.1619,41.3953,0 2.1662,41.3634,0 2.167,41.3905,0</coordinates></LineString></Placemark>
+</Folder>
+<Folder><name>11/24(화) 시우타데야 공원 · 여유 → 발렌시아</name><description><![CDATA[이동하는 날이라 오전엔 숙소 근처 시우타데야 공원만 여유 있게 걷고, 점심 먹고 쉬다가 기차를 타요. 체크아웃(12:00) 전에 숙소로 돌아와 짐을 맡겨요.]]></description>
+<Placemark><name>1. 숙소 · 느긋한 아침</name><description><![CDATA[🕒 08:30 ~ 09:45]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1795,41.3959,0</coordinates></Point></Placemark>
+<Placemark><name>2. 시우타데야 공원 · 카스카다 분수 · 호수</name><description><![CDATA[🕒 10:00 ~ 11:30<br>숙소에서 가장 가까운 큰 공원 · 개선문 산책로 포함<br>[무료]]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.1874,41.3891,0</coordinates></Point></Placemark>
+<Placemark><name>3. 점심 (보른 지구 · 숙소에서 도보 10분)</name><description><![CDATA[🕒 12:30 ~ 13:45]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.183,41.385,0</coordinates></Point></Placemark>
+<Placemark><name>4. 바르셀로나 산츠역</name><description><![CDATA[🕒 15:35<br>스페인 고속열차는 탑승 전 짐 검색 → 40분 전 도착<br>[예약완료]]]></description><styleUrl>#p_bcn</styleUrl><Point><coordinates>2.14,41.3792,0</coordinates></Point></Placemark>
+<Placemark><name>5. 발렌시아 Estació del Nord</name><description><![CDATA[🕒 19:02]]></description><styleUrl>#p_vlc</styleUrl><Point><coordinates>-0.3772,39.4666,0</coordinates></Point></Placemark>
+<Placemark><name>6. 숙소 2 · Senator Parque Central</name><description><![CDATA[🕒 19:30<br>체크인 14:00~ · 호텔 위치 대략<br>[예약완료]]]></description><styleUrl>#p_vlc</styleUrl><Point><coordinates>-0.38,39.4603,0</coordinates></Point></Placemark>
+<Placemark><name>11/24 동선 (바르셀로나)</name><styleUrl>#l_bcn</styleUrl><LineString><tessellate>1</tessellate><coordinates>2.1795,41.3959,0 2.1874,41.3891,0 2.183,41.385,0 2.14,41.3792,0</coordinates></LineString></Placemark>
+<Placemark><name>11/24 동선 (발렌시아)</name><styleUrl>#l_vlc</styleUrl><LineString><tessellate>1</tessellate><coordinates>-0.3772,39.4666,0 -0.38,39.4603,0</coordinates></LineString></Placemark>
+</Folder>
+<Folder><name>11/25(수) 비오파크 · 중앙시장 점심 · 과학박물관 · 대성당</name><description><![CDATA[과학박물관은 14:00 입장으로 고정했어요. 중앙시장은 15:00에 닫아서, 비오파크에서 나와 바로 점심을 먹고 택시로 이동해요(점심이 빠듯하면 비오파크 안에서 먹어도 돼요). 대성당은 과학박물관 다음, 관광 관람이 끝나기 전(평일 18:30 마감, 마지막 입장 약 17:45)에 들러요.]]></description>
+<Placemark><name>1. 숙소 출발 · 아침</name><description><![CDATA[🕒 08:30 ~ 09:20]]></description><styleUrl>#p_vlc</styleUrl><Point><coordinates>-0.38,39.4603,0</coordinates></Point></Placemark>
+<Placemark><name>2. Bioparc Valencia (동물원)</name><description><![CDATA[🕒 10:00 ~ 12:15<br>10:00–18:00 · 2시간 15분<br>[예약 필요]]]></description><styleUrl>#p_vlc</styleUrl><Point><coordinates>-0.4123,39.4778,0</coordinates></Point></Placemark>
+<Placemark><name>3. 발렌시아 중앙시장 · 점심</name><description><![CDATA[🕒 12:35 ~ 13:35<br>월~토 07:30–15:00 · 시장 안 바(Central Bar 등)에서 간단히]]></description><styleUrl>#p_vlc</styleUrl><Point><coordinates>-0.379,39.4737,0</coordinates></Point></Placemark>
+<Placemark><name>4. City of Arts and Sciences · 과학박물관</name><description><![CDATA[🕒 14:00 ~ 16:30<br>14:00 입장 · 2.5시간 · 마지막 입장 17:30<br>[예약 필요]]]></description><styleUrl>#p_vlc</styleUrl><Point><coordinates>-0.3527,39.4559,0</coordinates></Point></Placemark>
+<Placemark><name>5. 발렌시아 대성당</name><description><![CDATA[🕒 16:50 ~ 17:45<br>관광 관람 평일 10:30–18:30 (유료, 마지막 입장 마감 45분 전)<br>[변경·주의]]]></description><styleUrl>#p_vlc</styleUrl><Point><coordinates>-0.3753,39.4755,0</coordinates></Point></Placemark>
+<Placemark><name>11/25 동선</name><styleUrl>#l_vlc</styleUrl><LineString><tessellate>1</tessellate><coordinates>-0.38,39.4603,0 -0.4123,39.4778,0 -0.379,39.4737,0 -0.3527,39.4559,0 -0.3753,39.4755,0</coordinates></LineString></Placemark>
+</Folder>
+<Folder><name>11/26(목) 오세아노그라픽 → 마드리드</name><description><![CDATA[숙소가 Joaquín Sorolla역 바로 옆이라 동선이 편해요. 오세아노그라픽은 4시간 대신 3시간 15분 정도로 잡아야 기차 시간이 여유로워요. 베르나베우 투어는 마지막 입장이 마감 1시간~90분 전이라 17:38 도착으로는 들어갈 수 없어요 → 외관·스토어만 보는 걸로 잡았어요.]]></description>
+<Placemark><name>1. 숙소 · 아침, 체크아웃 후 짐 보관</name><description><![CDATA[🕒 08:30 ~ 09:30]]></description><styleUrl>#p_vlc</styleUrl><Point><coordinates>-0.38,39.4603,0</coordinates></Point></Placemark>
+<Placemark><name>2. Oceanogràfic (수족관) · 안에서 점심</name><description><![CDATA[🕒 10:00 ~ 13:50<br>10:00–18:00 · 권장 3~4시간(아이와 4~5시간) → 점심을 안에서 30분 정도로 빨리 먹고 3시간 50분 확보 · 10시 개장 맞춰 입장, 돌고래 공연 시간 먼저 확인<br>[예약 필요] [변경·주의]]]></description><styleUrl>#p_vlc</styleUrl><Point><coordinates>-0.3483,39.4528,0</coordinates></Point></Placemark>
+<Placemark><name>3. 발렌시아 Joaquín Sorolla역</name><description><![CDATA[🕒 15:32<br>짐 검색 때문에 30~45분 전 도착<br>[예약완료]]]></description><styleUrl>#p_vlc</styleUrl><Point><coordinates>-0.383,39.4597,0</coordinates></Point></Placemark>
+<Placemark><name>4. 마드리드 Chamartín역</name><description><![CDATA[🕒 17:38]]></description><styleUrl>#p_mad</styleUrl><Point><coordinates>-3.6825,40.472,0</coordinates></Point></Placemark>
+<Placemark><name>5. 베르나베우 외관 · Real Madrid Official Store · Starbucks (Puerta 57)</name><description><![CDATA[🕒 18:00 ~ 19:15<br>스토어 10:00–21:30. 투어는 이 시간엔 입장 불가. 큰 짐을 둘 곳이 마땅치 않으면 호텔에 먼저 들렀다 오는 것도 방법.<br>[변경·주의]]]></description><styleUrl>#p_mad</styleUrl><Point><coordinates>-3.6883,40.4531,0</coordinates></Point></Placemark>
+<Placemark><name>6. 숙소 3 · Rafaelhoteles Atocha</name><description><![CDATA[🕒 19:45<br>체크인 14:00~ · 아동 추가 €40.46 현장결제 · 호텔 위치 대략<br>[예약완료]]]></description><styleUrl>#p_mad</styleUrl><Point><coordinates>-3.687,40.401,0</coordinates></Point></Placemark>
+<Placemark><name>11/26 동선 (발렌시아)</name><styleUrl>#l_vlc</styleUrl><LineString><tessellate>1</tessellate><coordinates>-0.38,39.4603,0 -0.3483,39.4528,0 -0.383,39.4597,0</coordinates></LineString></Placemark>
+<Placemark><name>11/26 동선 (마드리드)</name><styleUrl>#l_mad</styleUrl><LineString><tessellate>1</tessellate><coordinates>-3.6825,40.472,0 -3.6883,40.4531,0 -3.687,40.401,0</coordinates></LineString></Placemark>
+</Folder>
+<Folder><name>11/27(금) 톨레도 당일치기 · 프라도</name><description><![CDATA[톨레도는 아토차역에서 AVANT 고속열차로 약 33분. 원래 구시가지 산책이 30분뿐이라 빠듯해서, 돌아오는 기차를 1시간 늦추고 레티로 공원을 뺐어요. 톨레도는 언덕이 많아 아이와 걸으면 지치기 쉬워서, 프라도 가기 전에 숙소에서 잠깐 쉬어요. 기차는 Renfe에서 왕복 시간을 확정하세요(아래 시간은 예시). 프라도는 월~토 18:00–20:00 무료(상설전) — 줄이 생기니 17:55쯤 도착.]]></description>
+<Placemark><name>1. 숙소 출발 · 아침</name><description><![CDATA[🕒 08:00 ~ 08:45]]></description><styleUrl>#p_mad</styleUrl><Point><coordinates>-3.687,40.401,0</coordinates></Point></Placemark>
+<Placemark><name>2. 마드리드 아토차역</name><description><![CDATA[🕒 09:20<br>AVANT 열차 예약 필요<br>[예약 필요]]]></description><styleUrl>#p_mad</styleUrl><Point><coordinates>-3.6896,40.4065,0</coordinates></Point></Placemark>
+<Placemark><name>3. 톨레도역</name><description><![CDATA[🕒 09:53]]></description><styleUrl>#p_tol</styleUrl><Point><coordinates>-4.0115,39.8615,0</coordinates></Point></Placemark>
+<Placemark><name>4. 톨레도 대성당</name><description><![CDATA[🕒 10:30 ~ 12:00<br>월~토 10:00–18:30 · 1.5시간<br>[예약 필요]]]></description><styleUrl>#p_tol</styleUrl><Point><coordinates>-4.0236,39.857,0</coordinates></Point></Placemark>
+<Placemark><name>5. 소코도베르 광장 · 구시가지 산책</name><description><![CDATA[🕒 13:00 ~ 14:30<br>골목이 좁고 언덕이 많아요 — 편한 신발. 마지판(마사판) 과자가 명물<br>[새로 제안]]]></description><styleUrl>#p_tol</styleUrl><Point><coordinates>-4.022,39.8586,0</coordinates></Point></Placemark>
+<Placemark><name>6. Mirador del Valle (톨레도 전경 전망대)</name><description><![CDATA[🕒 14:40 ~ 15:45<br>택시 10분 — 엽서 속 그 풍경 · 근처 카페에서 쉬어가기<br>[새로 제안]]]></description><styleUrl>#p_tol</styleUrl><Point><coordinates>-4.0198,39.8506,0</coordinates></Point></Placemark>
+<Placemark><name>7. 숙소 휴식</name><description><![CDATA[🕒 17:00 ~ 17:40<br>아토차역에서 도보 약 10분]]></description><styleUrl>#p_mad</styleUrl><Point><coordinates>-3.687,40.401,0</coordinates></Point></Placemark>
+<Placemark><name>8. 프라도 미술관</name><description><![CDATA[🕒 18:00 ~ 19:45<br>10:00–20:00 · 18:00–20:00 무료(상설전), 마지막 입장 19:30. 18세 미만은 항상 무료.<br>[무료]]]></description><styleUrl>#p_mad</styleUrl><Point><coordinates>-3.6921,40.4138,0</coordinates></Point></Placemark>
+<Placemark><name>11/27 동선 (마드리드)</name><styleUrl>#l_mad</styleUrl><LineString><tessellate>1</tessellate><coordinates>-3.687,40.401,0 -3.6896,40.4065,0</coordinates></LineString></Placemark>
+<Placemark><name>11/27 동선 (톨레도)</name><styleUrl>#l_tol</styleUrl><LineString><tessellate>1</tessellate><coordinates>-4.0115,39.8615,0 -4.0236,39.857,0 -4.022,39.8586,0 -4.0198,39.8506,0</coordinates></LineString></Placemark>
+<Placemark><name>11/27 동선 (마드리드)</name><styleUrl>#l_mad</styleUrl><LineString><tessellate>1</tessellate><coordinates>-3.687,40.401,0 -3.6921,40.4138,0</coordinates></LineString></Placemark>
+</Folder>
+<Folder><name>11/28(토) 왕궁 · 근위병 교대식 · 데보드 신전</name><description><![CDATA[근위병 교대식은 수·토 11:00–14:00(30분 간격), 무료. 왕궁 내부는 유료예요(무료는 평일 저녁 EU 거주자 대상) — 원래 "Free" 표시는 교대식 기준으로 이해했어요.]]></description>
+<Placemark><name>1. 숙소 출발 · 아침</name><description><![CDATA[🕒 08:30 ~ 09:20]]></description><styleUrl>#p_mad</styleUrl><Point><coordinates>-3.687,40.401,0</coordinates></Point></Placemark>
+<Placemark><name>2. 마드리드 왕궁 (내부 관람)</name><description><![CDATA[🕒 10:00 ~ 11:30<br>겨울 월~토 10:00–18:00 · 유료 · 예약 권장<br>[예약 필요] [변경·주의]]]></description><styleUrl>#p_mad</styleUrl><Point><coordinates>-3.7143,40.418,0</coordinates></Point></Placemark>
+<Placemark><name>3. 근위병 교대식</name><description><![CDATA[🕒 11:30 ~ 12:00<br>수·토 11:00–14:00, 30분 간격 · 아르메리아 광장/Puerta del Príncipe<br>[무료]]]></description><styleUrl>#p_mad</styleUrl><Point><coordinates>-3.7135,40.4174,0</coordinates></Point></Placemark>
+<Placemark><name>4. 마요르 광장</name><description><![CDATA[🕒 12:15 ~ 12:45]]></description><styleUrl>#p_mad</styleUrl><Point><coordinates>-3.7074,40.4155,0</coordinates></Point></Placemark>
+<Placemark><name>5. 추로스 · Chocolatería San Ginés (선택)</name><description><![CDATA[🕒 14:00 ~ 14:30<br>[새로 제안]]]></description><styleUrl>#p_mad</styleUrl><Point><coordinates>-3.7068,40.4168,0</coordinates></Point></Placemark>
+<Placemark><name>6. 솔 광장 → Gran Vía 쇼핑</name><description><![CDATA[🕒 14:30 ~ 16:30]]></description><styleUrl>#p_mad</styleUrl><Point><coordinates>-3.7058,40.42,0</coordinates></Point></Placemark>
+<Placemark><name>7. 데보드 신전 (일몰)</name><description><![CDATA[🕒 17:15 ~ 18:00<br>일몰 약 17:50 — 마드리드 대표 일몰 명소<br>[무료]]]></description><styleUrl>#p_mad</styleUrl><Point><coordinates>-3.7178,40.424,0</coordinates></Point></Placemark>
+<Placemark><name>11/28 동선</name><styleUrl>#l_mad</styleUrl><LineString><tessellate>1</tessellate><coordinates>-3.687,40.401,0 -3.7143,40.418,0 -3.7135,40.4174,0 -3.7074,40.4155,0 -3.7068,40.4168,0 -3.7058,40.42,0 -3.7178,40.424,0</coordinates></LineString></Placemark>
+</Folder>
+<Folder><name>11/29(일) 마드리드 → 애틀랜타</name><description><![CDATA[국제선이라 출발 3시간 전 공항 도착 기준. 일요일 아침은 공항 가는 길이 막히지 않는 편이에요.]]></description>
+<Placemark><name>1. 숙소 · 아침, 체크아웃</name><description><![CDATA[🕒 07:30 ~ 08:30]]></description><styleUrl>#p_mad</styleUrl><Point><coordinates>-3.687,40.401,0</coordinates></Point></Placemark>
+<Placemark><name>2. MAD 바라하스 국제공항</name><description><![CDATA[🕒 09:20<br>터미널은 항공권에서 확인]]></description><styleUrl>#p_mad</styleUrl><Point><coordinates>-3.568,40.4839,0</coordinates></Point></Placemark>
+<Placemark><name>11/29 동선</name><styleUrl>#l_mad</styleUrl><LineString><tessellate>1</tessellate><coordinates>-3.687,40.401,0 -3.568,40.4839,0</coordinates></LineString></Placemark>
+</Folder>
+</Document></kml>
